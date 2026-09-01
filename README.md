@@ -7,9 +7,17 @@ Berikut portofolio yang sedang dikerjakan, antara lain
 3. _Customer transaction value prediction as data-driven convenience store product availability recommendation tool development insight_
 4. _Multi-product classification as an early foundation for simultaneous, sustainable, and profitable product restocking decision support_
 
-Sementara itu, berikut portofolio yang sudah dikerjakan, antara lain
+Berikut portofolio yang sudah dikerjakan, antara lain
 
 1. _LR-SVM for Customer Transaction Value Prediction_ [Sudah Dikerjakan]
+
+Berikut portofolio yang akan dikerjakan, antara lain 
+
+1. Otomatisasi Linipipa Pra-Pemrosesan Khusus Dataset _Convenience Store_ [Belum Dikerjakan]
+2. Permutation Importance Untuk _Gradient Boosting_, _Linear Regression_, _Multi-Layer Perceptron_, dan _Support Vector Machine_ [Belum Dikerjakan]
+3. _Parallelized Ensemble Regression_ Antara Model _Gradient Boosting_, _Linear Regression_, _Multi-Layer Perceptron_, dan _Support Vector Machine_ [Belum Dikerjakan]
+4. _Sequential Relay Ensemble Regression_: _Linear Regression_ -> _Gradient Boosting_ -> _Multi-Layer Perceptron_ -> _Support Vector Machine_ [Belum Dikerjakan]
+5. Dokumentasi Penggunaan Model _Linear Regression_, _Support Vector Machine_, _Stacked Ensemble Regression_, dan _Sequential Relay Ensemble Regression_ [Belum Dikerjakan]
 
 Semoga bermanfaat dan jangan lupa ikuti kemajuan repositori selengkapnya.
 
