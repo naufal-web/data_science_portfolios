@@ -7,6 +7,10 @@ Berikut portofolio yang sedang dikerjakan, antara lain
 3. _Customer transaction value prediction as data-driven convenience store product availability recommendation tool development insight_
 4. _Multi-product classification as an early foundation for simultaneous, sustainable, and profitable product restocking decision support_
 
+Sementara itu, berikut portofolio yang sudah dikerjakan, antara lain
+
+1. _LR-SVM for Customer Transaction Value Prediction_ [Sudah Dikerjakan]
+
 Semoga bermanfaat dan jangan lupa ikuti kemajuan repositori selengkapnya.
 
 Salam kenal, 
