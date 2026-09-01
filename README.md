@@ -17,7 +17,7 @@ Berikut portofolio yang akan dikerjakan, antara lain
 2. Permutation Importance Untuk _Gradient Boosting_, _Linear Regression_, _Multi-Layer Perceptron_, dan _Support Vector Machine_ [Belum Dikerjakan]
 3. _Parallelized Ensemble Regression_ Antara Model _Gradient Boosting_, _Linear Regression_, _Multi-Layer Perceptron_, dan _Support Vector Machine_ [Belum Dikerjakan]
 4. _Sequential Relay Ensemble Regression_: _Linear Regression_ -> _Gradient Boosting_ -> _Multi-Layer Perceptron_ -> _Support Vector Machine_ [Belum Dikerjakan]
-5. Dokumentasi Penggunaan Model _Linear Regression_, _Support Vector Machine_, _Stacked Ensemble Regression_, dan _Sequential Relay Ensemble Regression_ [Belum Dikerjakan]
+5. Dokumentasi Penggunaan Model _Linear Regression_, _Support Vector Machine_, _Parallelized Ensemble Regression_, dan _Sequential Relay Ensemble Regression_ [Belum Dikerjakan]
 
 Semoga bermanfaat dan jangan lupa ikuti kemajuan repositori selengkapnya.
 
